@@ -34,7 +34,7 @@ body {
 
 /* Write all remaining styles here */
 
-a.wiki-link:link {
+a.wlink:link {
   text-decoration: none;
   color: #1783bb;
 }
