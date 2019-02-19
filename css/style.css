@@ -34,17 +34,17 @@ body {
 
 /* Write all remaining styles here */
 
-a.wlink:link {
+a.w_link:link {
   text-decoration: none;
   color: #1783bb;
 }
 
-a.wiki-link:visited {
+a.w_link:visited {
   text-decoration: none;
   color: #1783bb;
 }
 
-a.wiki-link:hover, a.wiki-link:active {
+a.w_link:hover, a.ww_link:active {
   text-decoration: underline;
   color: #1783bb;
 }
