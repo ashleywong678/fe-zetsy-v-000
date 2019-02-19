@@ -34,17 +34,17 @@ body {
 
 /* Write all remaining styles here */
 
-a:link {
+a.wiki-link:link {
   text-decoration: none;
   color: rgb(69, 130, 182);
 }
 
-a:visited {
+a.wiki-link:visited {
   text-decoration: none;
   color: rgb(69, 130, 182);
 }
 
-a:hover, a:active {
+a.wiki-link:hover, a.wiki-link:active {
   text-decoration: underline;
   color: rgb(69, 130, 182);
 }
