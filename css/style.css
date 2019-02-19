@@ -34,17 +34,17 @@ body {
 
 /* Write all remaining styles here */
 
-p + a:link {
+a:link {
   text-decoration: none;
   color: rgb(69, 130, 182);
 }
 
-p + a:visited {
+a:visited {
   text-decoration: none;
   color: rgb(69, 130, 182);
 }
 
-p + a:hover, a:active {
+a:hover, a:active {
   text-decoration: underline;
   color: rgb(69, 130, 182);
 }
