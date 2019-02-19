@@ -36,15 +36,15 @@ body {
 
 a.wiki-link:link {
   text-decoration: none;
-  color: rgb(69, 130, 182);
+  color: #1783bb;
 }
 
 a.wiki-link:visited {
   text-decoration: none;
-  color: rgb(69, 130, 182);
+  color: #1783bb;
 }
 
 a.wiki-link:hover, a.wiki-link:active {
   text-decoration: underline;
-  color: rgb(69, 130, 182);
+  color: #1783bb;
 }
