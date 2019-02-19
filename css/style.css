@@ -34,7 +34,7 @@ body {
 
 /* Write all remaining styles here */
 
-#feature a: {
+#feature a {
   color: #1783bb;
   text-decoration: none;
 }
@@ -44,7 +44,7 @@ body {
 /*  color: #1783bb;*/
 /*}*/
 
-#feature a.:hover {
+#feature a:hover {
   text-decoration: underline;
   color: #1783bb;
 }
